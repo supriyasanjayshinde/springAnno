@@ -1,0 +1,8 @@
+com\kgisl\springAnno\PersistenceJPAConfig.class
+com\kgisl\springAnno\service\StudentServiceImpl.class
+com\kgisl\springAnno\WebConfig.class
+com\kgisl\springAnno\entity\Student.class
+com\kgisl\springAnno\DispatcherClass.class
+com\kgisl\springAnno\controller\StudentController.class
+com\kgisl\springAnno\service\StudentService.class
+com\kgisl\springAnno\repository\StudentRepository.class
